@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Boot Counter</string>
+    
+    <string name="boots_info_empty">No boots detected</string>
+    <string name="boots_info_one_boot">The boot was detected = %s</string>
+    <string name="boots_info_multiple_delta">Last boots time delta = %d</string>
+    <string name="boot_info_activity_format">%s - %d</string>
+
+    <string name="error_notification_permission_not_granted">Notifications permission not granted - app won\'t work properly</string>
+</resources>
